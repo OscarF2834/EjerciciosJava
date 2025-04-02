@@ -2,7 +2,7 @@
 
 /*
 Lo que tienes que entender primero es como funciona un Array de datos, una de las principales características
-es que los Array son de una dimensión fija, esto tiene un trasfondo complejo pero en pocas palabras, cuando se
+es que los Array son de una dimensión fija, esto tiene un trasfondo complejo, pero en pocas palabras, cuando se
 trabaja con un array los espacios se reservan en memoria desde el momento de su creación y si se permitiera
 redimensionarlos el sistema tendría que verificar el espacio en memoria para determinar si es posible o se tendría
 que alojar en un nuevo espacio, eso es genera más consumo de recursos y latencia, según qué tipo de programación
