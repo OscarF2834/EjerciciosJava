@@ -30,5 +30,12 @@ public class Ejercicio27 {
             numero = entrada.nextInt();
         }
         System.out.println("ACERTASTE");
+
+        final int pi = (int)(3.14159);
+
+        //operador ternario es una forma de hacer un CONDICIONAL
+        byte numero3 = 5;
+        String resultado = (numero3%2==0) ? "PAR" : "IMPAR";
+        System.out.println("El numero 5 es: " + resultado);
     }
 }
